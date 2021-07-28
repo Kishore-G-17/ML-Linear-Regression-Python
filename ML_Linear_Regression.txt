@@ -1,0 +1,12 @@
+Date: 27/07/2021
+Topic: Machine Learning | Linear Regression.
+
+Linear Regression:
+-> Regression is used to find the target value from independent predictors.
+-> More clearly It is used to find the relationship between dependent and independent variables.
+-> Linear Regression model is used depend upon the data set we are having.
+-> The output of the linear regression  is a Linear straight line equation ( y = mx + b)
+-> y: Dependent variable.
+-> x: Independent variable.
+-> m: Slope (or) gradient.
+-> b: constant (or) intercept.
