@@ -2,7 +2,7 @@ from sklearn import linear_model
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#load the 'test.csv' file
+#load the 'area.csv' file
 df1 = pd.read_csv('area.csv')
 #create the linear regression model object
 model = linear_model.LinearRegression()
